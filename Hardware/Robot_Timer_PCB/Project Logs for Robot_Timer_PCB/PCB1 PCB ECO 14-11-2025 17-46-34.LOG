@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+3V3 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Change Component Footprint: Designator=C14 Old Footprint=CAP_0603 New Footprint=CAP_0805
+Change Component Footprint: Designator=C15 Old Footprint=CAP_0603 New Footprint=CAP_0805
+Change Component Footprint: Designator=D3 Old Footprint=LED_0805_BLUE New Footprint=LED_0603_BLUE
+Change Component Comment : Designator=C14 Old Comment=470p New Comment=10u
+Change Component Comment : Designator=C15 Old Comment=470p New Comment=22u
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED_0805_BLUE"; UniqueID = "\DXCYIKKL" ("\DXCYIKKL")
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+3V3 Pin=C15-2
