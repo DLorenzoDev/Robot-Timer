@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetB1_5 Pin=C13-1
+Removed Pin From Net: NetName=BAT_IN_NEG Pin=C13-2
+Change Component Comment : Designator=R7 Old Comment=100k New Comment=160k
+Added Pin To Net: NetName=BAT_IN_NEG Pin=C13-1
+Added Pin To Net: NetName=NetB1_5 Pin=C13-2
